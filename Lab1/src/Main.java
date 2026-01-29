@@ -1,0 +1,12 @@
+import java.awt.*;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main {
+    public static void main(String[] args) {
+        Vehicle testCar1 = new Saab95();
+        Vehicle testCar2 = new Volvo240();
+        System.out.println(testCar1);
+        System.out.println(testCar2);
+        }
+    }
