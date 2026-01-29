@@ -26,5 +26,4 @@ public class Saab95 extends Vehicle{
         return super.getEnginePower() * 0.01 * turbo;
     }
 
-
 }
