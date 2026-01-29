@@ -27,5 +27,4 @@ public class Saab95 extends Vehicle{
     }
 
 
-
 }

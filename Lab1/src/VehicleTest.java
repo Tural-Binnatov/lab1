@@ -4,6 +4,8 @@ import java.awt.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+// Olika tester
+
 class VehicleTest {
     Vehicle testCar1 = new Saab95();
     Vehicle testCar2 = new Volvo240();

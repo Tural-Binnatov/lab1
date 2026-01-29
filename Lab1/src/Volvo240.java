@@ -15,5 +15,4 @@ public class Volvo240 extends Vehicle{
         return super.getEnginePower() * 0.01 * trimFactor;
     }
 
-
 }
